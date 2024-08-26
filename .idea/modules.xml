@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AVL/AVL.iml" filepath="$PROJECT_DIR$/AVL/AVL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boyer_Moore_Majority_Voting_Algorithm/Boyer_Moore_Majority_Voting_Algorithm.iml" filepath="$PROJECT_DIR$/Boyer_Moore_Majority_Voting_Algorithm/Boyer_Moore_Majority_Voting_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bubble_sort/Bubble_sort.iml" filepath="$PROJECT_DIR$/Bubble_sort/Bubble_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_Stack/Dynamic_Stack.iml" filepath="$PROJECT_DIR$/Dynamic_Stack/Dynamic_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insertion_sort/Insertion_sort.iml" filepath="$PROJECT_DIR$/Insertion_sort/Insertion_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge_sort/Merge_sort.iml" filepath="$PROJECT_DIR$/Merge_sort/Merge_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem-sloving/Problem-sloving.iml" filepath="$PROJECT_DIR$/Problem-sloving/Problem-sloving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quick_sort/Quick_sort.iml" filepath="$PROJECT_DIR$/Quick_sort/Quick_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selection_sort/Selection_sort.iml" filepath="$PROJECT_DIR$/Selection_sort/Selection_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+    </modules>
+  </component>
+</project>
